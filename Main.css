@@ -1,0 +1,35 @@
+body {
+    background-color: #00D6A6;
+    border: 10px solid #00775C;
+}
+h1 {
+    font-family: "HelveticaNeue-Oblique";
+    color:#00775C;
+    text-align: Center;
+    font-size: 50px;
+    text-shadow: 2px 2px #2FE2BA;
+}
+p {
+    font-family: "Helvetica-Oblique";
+    font-size: 25px;
+    text-align: Center;
+
+    color:#00775C;
+}
+a {
+  font-size: 25px;
+  text-align: center;
+  font-family: "Helvetica-Oblique";
+  color:#00775C;
+}
+ol {
+  font-size: 25px;
+  text-align: Left;
+  font-family: "Helvetica-Oblique";
+  text-shadow: 2px 2px #2FE2BA;
+  color:#00775C;
+}
+p {
+    word-spacing: 2px;
+    text-shadow: 2px 2px #2FE2BA;
+}
